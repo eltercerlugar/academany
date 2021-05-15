@@ -20,9 +20,8 @@ The Fab Lab Network provides a local learning spaces near your location, but con
 A range of topics are covered by this distributed learning, all related to the learning of new methods, technics, approaches and investigation in several scopes related with all kind of subjects. And **each year the number of distributed learning topics are increasing**, giving you the unique opportinity to unleash your skill in topics never covered in formal education.
 Lectures and classes are spreaded through the network in videconferences, and your main work is developed in your local Fab Lab, mentored by a local instructor.
 
-## The future of learning (almost) anything is here.
 <div class="jumbotron">
-  <h2>Enrol today</h2>
+  <h2>The future of learning (almost) anything is here.</h2>
   <p>Become part of the global network of students that already pass from one of our distributed courses.</p>
   <p><a class="btn btn-primary btn-lg">What can i learn?</a></p>
 </div>
