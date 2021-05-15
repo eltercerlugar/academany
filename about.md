@@ -17,6 +17,6 @@ In September 2017 a new class will be added called **Fabricademy**, about the mi
 
 Fab Academy is based on the MIT class How to Make (Almost) Anything as developed by Professor Neil Gershenfeld from the MIT - Bio Academy is directed by professor George Church from Harvard.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dsJrK1R3rWI
 " target="_blank"><img src="http://img.youtube.com/vi/dsJrK1R3rWI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="640" height="580" border="10" /></a>
