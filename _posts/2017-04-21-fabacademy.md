@@ -4,8 +4,7 @@ layout: page
 img: fabacademy.jpg
 ---
 
-### Learn to Turn Codes into Things   The new beggining of education
-## linea3
+### Learn to Turn Codes into Things   The new beggining of educationdfdsfsdfdsfsdfdsfsdfdsfsdfsdf
 
 Just as communications and computation went from analog to digital, resulting in PCs and the Internet, the digitization of fabrication is leading to personal fabricators that will allow anyone to make almost anything, anywhere. The development of digital fabrication is based on creating codes that don’t just describe things, they are things, much as proteins are coded in molecular biology. This research roadmap is ultimately aiming at a Star Trek-style replicator, but prototype versions of these capabilities are already available in field fab labs.
 
