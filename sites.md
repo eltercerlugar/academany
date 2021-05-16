@@ -8,7 +8,7 @@ img: santiago.png
 
 Academany programs are offered world-wide in labs and creative spaces around the globe.
 
-Below you find a list of nodes registered for the 2017 cycle.
+Below you find a list of nodes registered for the cycle.
 
 ### EUROPE
 
